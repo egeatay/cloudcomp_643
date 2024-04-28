@@ -1,0 +1,5 @@
+file 1.jpg has both a car and text. The text contains: ['$ BR8167', '$', 'BR8167']
+
+file 4.jpg has both a car and text. The text contains: ['YHI9 OTZ', 'YHI9', 'OTZ']
+
+file 7.jpg has both a car and text. The text contains: ['Lamborghini', 'LP 610 LB', 'ВО', 'BWW', 'Lamborghini', 'LP', '610 LB', 'ВО', 'BWW']
